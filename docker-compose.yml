@@ -1,0 +1,8 @@
+
+name: homehello
+version: '3.3'
+services:
+    homehello:
+        ports:
+            - "3000"
+        image: methi45docker/homehello
